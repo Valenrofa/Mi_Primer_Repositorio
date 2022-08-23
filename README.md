@@ -3,3 +3,5 @@
 ###### Encabezado de nivel 6
 
 **Texto en negrita**
+
+*Texto en itálica*
