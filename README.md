@@ -5,3 +5,5 @@
 **Texto en negrita**
 
 *Texto en itálica*
+
+***Texto mixto***
